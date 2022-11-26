@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12db08e8-3cc4-417c-8762-ef93455db109" name="Changes" comment="random">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Gx3lBitETrXes1RboLFGhzXxQT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,6 +46,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/maximizzar/IdeaProjects/algorithms_and_data-structures&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Hi Mom!" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -76,6 +84,7 @@
       <workItem from="1669041941490" duration="50000" />
       <workItem from="1669114018001" duration="27000" />
       <workItem from="1669481378468" duration="282000" />
+      <workItem from="1669486039236" duration="4873000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1667316672072</created>

@@ -11,19 +11,19 @@ public class Test {
         @SuppressWarnings("WrapperTypeMayBePrimitive")
         Long startTime = System.nanoTime();
 
-        sortAlgo.mergeSort(arrayPreSortedAscending(length),0,length);
+        SortAlgo.mergeSort(arrayPreSortedAscending(length),0,length);
         String preSortedAscending =
                 Arrays.toString(times.getTimes(Math.toIntExact(System.nanoTime() - startTime)));
 
         //PreSortedDescending
         startTime = System.nanoTime();
-        sortAlgo.mergeSort(arrayPreSortedDescending(length),0,length);
+        SortAlgo.mergeSort(arrayPreSortedDescending(length),0,length);
         String preSortedDescending =
                 Arrays.toString(times.getTimes(Math.toIntExact(System.nanoTime() - startTime)));
 
         //Unsorted
         startTime = System.nanoTime();
-        sortAlgo.mergeSort(arrayUnsorted(length,min,max),0,length);
+        SortAlgo.mergeSort(arrayUnsorted(length,min,max),0,length);
         String unsorted =
                 Arrays.toString(times.getTimes(Math.toIntExact(System.nanoTime() - startTime)));
 
